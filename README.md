@@ -16,6 +16,10 @@ The dashboard was created using **Microsoft Power BI** as part of the **Future I
 - Compare conversions based on housing loan status
 - Examine campaign-level conversion patterns
 
+- ## 📊 Dashboard Preview
+
+![Bank Marketing Dashboard](Bank_Marketing_Dashboard.png)
+
 ## 📈 Dashboard Highlights
 
 - Total Customers: **45.211K**
