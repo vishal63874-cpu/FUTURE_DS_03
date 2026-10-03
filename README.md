@@ -16,9 +16,7 @@ The dashboard was created using **Microsoft Power BI** as part of the **Future I
 - Compare conversions based on housing loan status
 - Examine campaign-level conversion patterns
 
-- ## 📊 Dashboard Preview
-
-![Bank Marketing Dashboard](Bank_Marketing_Dashboard.png)
+![Bank Marketing Dashboard](Screenshot%202026-10-03%20120801.png)
 
 ## 📈 Dashboard Highlights
 
